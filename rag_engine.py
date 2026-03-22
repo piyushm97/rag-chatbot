@@ -148,3 +148,7 @@ class RAGEngine:
     def clear(self):
         self._store.clear()
         self._documents.clear()
+
+
+from dotenv import load_dotenv
+load_dotenv()
