@@ -177,3 +177,14 @@ rag-chatbot/
 ## 📄 License
 
 MIT — use it, modify it, ship it.
+
+## Screenshots
+
+### Chat Interface
+![Chat UI](docs/screenshot1.png)
+
+### Document Upload + Answer
+![Answer with sources](docs/screenshot2.png)
+
+### API Documentation
+![API Docs](docs/screenshot3.png)
