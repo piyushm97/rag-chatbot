@@ -9,7 +9,6 @@ A production-grade **Retrieval-Augmented Generation (RAG)** chatbot that lets yo
 ![CI](https://github.com/YOUR_USERNAME/rag-chatbot/actions/workflows/ci.yml/badge.svg)
 
 ---
-
 ## ✨ Features
 
 - **Document ingestion** — Upload PDF or TXT files; they are automatically chunked and embedded
